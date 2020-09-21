@@ -3,6 +3,14 @@
 
 # To keep track of code, R environments, and data files all in one place!
 
+## For an existing project:
+# Organize everything into a single directory
+# File -> New Project -> Existing Directory
+# Tools -> Version Control -> Project Setup
+# Change Version Control from “none” to “Git”
+
+
+## For a new project:
 # Open R Studio
 # Navigate to -> File -> New Project -> Git
 # Enter the Git repository
