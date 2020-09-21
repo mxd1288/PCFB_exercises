@@ -25,4 +25,5 @@ git commit -m “message”
 git status
 
 # push changes to GitHub
+# will push all changes that have been committed
 git push . 
