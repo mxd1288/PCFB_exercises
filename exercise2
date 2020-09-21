@@ -1,0 +1,17 @@
+# Exercise 2
+
+# now you know how to make repository!
+# what happens if you need to make a change?
+
+# navigate to your github repository open an existing file
+nano file
+
+# change 1 or more lines of the file and save it
+# add, push, and commit changes to the file
+
+# try the following commands:
+git log
+git diff HEAD
+git show
+git checkout HEAD filename
+
