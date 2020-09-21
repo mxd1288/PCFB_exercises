@@ -13,7 +13,7 @@
 
 # What happens if you aren't the first person to commit a change?
 # How can you get the most up to date version of the recipe?
-# How can you resolve discrepencies?
+# How can you resolve discrepancies?
 
 # Useful commands:
 git pull
