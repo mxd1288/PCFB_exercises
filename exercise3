@@ -1,0 +1,22 @@
+# Exercise 3
+
+# Collaborating in github
+# now you known you to use version control with git
+# This is especially useful when you are collaborating on code
+
+# Get into a group with 2-3 people
+# Have one person make a new repository called "recipes"
+# The repository should include a file with a recipe name (e.g. soup)
+
+# Have your group members clone the repository 
+# Each person should add one ingredient to the recipe
+
+# What happens if you aren't the first person to commit a change?
+# How can you get the most up to date version of the recipe?
+# How can you resolve discrepencies?
+
+# Useful commands:
+git pull
+git diff
+
+
