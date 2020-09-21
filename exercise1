@@ -1,0 +1,28 @@
+# Practical Computing for Biologists
+# Exercise 1
+
+# make the repository on your GitHub page and copy the URL
+# 
+
+# In Terminal
+# Navigate to the directory where you want to make the repository
+git clone URL
+
+cd cloned_repo
+
+# add a file
+nano newfile
+
+# add the file to the repo 
+git add .
+
+# move changes to the staging area
+# always use -m with a message
+# if you forget -m it will make you enter a message
+git commit -m “message”
+
+# check the status of the git repo
+git status
+
+# push changes to GitHub
+git push . 
